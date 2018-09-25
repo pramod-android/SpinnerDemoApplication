@@ -40,6 +40,12 @@ public class MainActivity extends AppCompatActivity {
 
                 Toast.makeText(getApplicationContext(),desc,Toast.LENGTH_SHORT).show();
 
+
+
+
+
+
+
             }
 
             public void onNothingSelected(AdapterView<?> adapterView) {
